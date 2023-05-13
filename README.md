@@ -1,24 +1,19 @@
-# Vue JS
+# learning-vuejs
 
-It is a Javascript framework.
+## Project setup
+```
+npm install
+```
 
-## Concepts List
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-### Video 0
-Intro & Theory
-### Video 1
-- How to use Vue (CDN)
-- Creating a Vue app
-- Data & templates
-- Click events
-- Conditional Rendering
+### Compiles and minifies for production
+```
+npm run build
+```
 
-### Video 2
-- Other mouse events
-- Outputting lists (v-for)
-- Attribute binding
-- Dynamic classes
-- Computed properties
-
-### Video 3
-Currently watching
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
