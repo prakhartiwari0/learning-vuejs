@@ -2,9 +2,11 @@
     user-select: none;
 }
 .uncolor{
-    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-    filter: grayscale(100%);
+    /* -webkit-filter: grayscale(100%);
+    filter: grayscale(100%); */
 }
+
+
 .rate_icon{
     cursor: pointer;
     
