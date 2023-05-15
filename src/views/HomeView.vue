@@ -69,11 +69,6 @@ export default{
 *{
     user-select: none;
 }
-.uncolor{
-    /* -webkit-filter: grayscale(100%);
-    filter: grayscale(100%); */
-}
-
 
 .rate_icon{
     cursor: pointer;
